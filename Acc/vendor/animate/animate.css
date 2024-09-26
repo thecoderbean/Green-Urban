@@ -1,0 +1,217 @@
+<html class="no-js" lang="en"> 
+<head>
+
+   <!--- basic page needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>GREEN URBAN</title>
+	<meta name="description" content="">  
+	<meta name="author" content="">
+
+   <!-- mobile specific metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+ 	<!-- CSS
+   ================================================== -->
+   <link rel="stylesheet" href="css/base.css">
+   <link rel="stylesheet" href="css/vendor.css">  
+   <link rel="stylesheet" href="css/main.css">  
+   <link rel="shortcut icon" href="../favicon.ico"> 
+   <link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+   <link rel="stylesheet" type="text/css" href="acc/vendor/bootstrap/css/bootstrap.min.css">
+   <link rel="stylesheet" type="text/css" href="acc/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+   <link rel="stylesheet" type="text/css" href="acc/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+   <link rel="stylesheet" type="text/css" href="acc/vendor/animate/animate.css"
+   <link rel="stylesheet" type="text/css" href="acc/vendor/css-hamburgers/hamburgers.min.css">
+   <link rel="stylesheet" type="text/css" href="acc/vendor/select2/select2.min.css">
+   <link rel="stylesheet" type="text/css" href="acc/css/util.css">
+   <link rel="stylesheet" type="text/css" href="acc/css/main.css">
+
+   <!-- script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+	<script src="js/pace.min.js"></script>
+
+   <!-- favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+
+<body id="top">
+
+	<!-- header 
+   ================================================== -->
+   <header> 
+
+   	<div class="header-logo">
+	      <a href="index.html">GREEN URBAN</a>
+	   </div> 
+
+		<a id="header-menu-trigger" href="#0">
+		 	<span class="header-menu-text">Menu</span>
+		  	<span class="header-menu-icon"></span>
+		</a> 
+
+		<nav id="menu-nav-wrap">
+
+			<a href="#0" class="close-button" title="close"><span>Close</span></a>	
+
+	   	<h3>GREEN URBAN</h3>  
+
+			<ul class="nav-list">
+				<li class="current"><a class="smoothscroll" href="#home" title="">Account</a></li>
+				<li><a class="smoothscroll" href="#services" title="">Buy/Sell</a></li>
+				<li><a class="smoothscroll" href="#about" title="">Biling</a></li>
+				<li><a class="smoothscroll" href="#contact" title="">LogOut</a></li>						
+			</ul>	
+       </nav>  <!-- end #menu-nav-wrap -->
+
+	</header> <!-- end header -->  
+
+
+   <!-- home
+   ================================================== -->
+   <section id="home">
+
+	<div class="limiter">
+		<div class="container-login100" style="background-image: url('acc/images/img-01.jpg');">
+			<div class="wrap-login100 p-t-190 p-b-30">
+				<form class="login100-form validate-form">
+					<div class="login100-form-avatar">
+						<img src="acc/images/avatar-01.jpg" alt="AVATAR">
+					</div>
+
+					<span class="login100-form-title p-t-20 p-b-45">
+						     Name
+						<br>
+						<br>Username
+						<br>Phone number
+						<br><br><br><br><br><br><br><br><br><br><br><br>
+						</span>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div><!-- end home-content-table -->
+		<div class="scrolldown">
+			<a href="#about" class="scroll-icon smoothscroll">		
+		   	Scroll Down		   	
+		   	<i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+			</a>
+		</div>			
+   
+   </section> <!-- end home -->
+
+   <!-- sell/buy
+   ================================================== -->
+    <section id="services">
+    <div class="gradient-overlay"></div>
+    
+    <div class="row narrow section-intro with-bottom-sep animate-this">
+    <div class="col-full">
+    
+    <h3>Services</h3>
+    <h1>What We Do.</h1>
+    
+    <p class="lead">We collect scrap materials from homes with fare prices and recycle that to save mother earth.</p>
+    
+    </div> <!-- end col-full -->
+    </div> <!-- end row -->
+    
+    <div class="row services-content">
+    
+    <div class="services-list block-1-2 block-tab-full group">
+    
+    <div class="bgrid service-item animate-this">	
+    
+    <span class="icon"><i class="icon-paint-brush"></i></span>            
+    
+    <div class="service-content">
+    <h3 class="h05">Collection</h3>
+    
+    <p>Recyclable materials are collected and a fair price is given to the seller ,Garbage is collected via price per kg. .
+    </p>	         		
+    </div> 	         	 
+    
+    </div> <!-- end bgrid -->
+    
+    <div class="bgrid service-item animate-this">	
+    
+    <span class="icon"><i class="icon-earth"></i></span>                          
+    
+    <div class="service-content">	
+    <h3 class="h05">Selling</h3>  
+    
+    <p>Starch bag, paper bag,cloth bag,Aluminium  and degradable straws are sold to the coustomer which help shaping our environment.
+    </p>	         		
+    </div>	                          
+    </div> <!-- end bgrid -->
+    </div> <!-- end bgrid -->			   
+    </div> <!-- end services-list -->
+  <!-- end services-content -->   			
+    </section> <!-- end services -->
+  <!--================================ -->
+ <section id="about">
+ 
+ <div class="row about-wrap">
+ <div class="col-full">
+ 
+ <div class="about-profile-bg"></div>
+ 
+ <div class="intro">
+ <h3 class="animate-this">Bill and Reg code</h3>
+ <h6>
+ 
+ </div>  
+bill form
+ </div> <!-- end col-full  -->
+ </div> <!-- end about-wrap  -->
+ 
+ </section> <!-- end about -->
+	<!-- contact
+   ================================================== -->
+   <section id="contact">
+
+      <div class="overlay"></div>
+
+		<div class="row narrow section-intro with-bottom-sep animate-this">
+   		<div class="col-twelve">
+   			<h3>GREEN URBAN</h3>
+   			<h1>LogOut</h1>
+        <form  action="index.html" autocomplete="on"> 
+            <div class="col-seven tab-full animate-this">
+                          <p class="login button"> 
+                              <input type="submit" value="LogOut" /> 
+ 								</p>
+                      </form>
+                       </div>
+              </div>
+          </div>  
+      </section>
+  </div>
+ <!-- end form -->
+</div> <!-- end footer-main -->
+</div> <!-- end footer-bottom -->
+ <div id="go-top">
+		   <a class="smoothscroll" title="Back to Top" href="#top">
+		   	<i class="fa fa-long-arrow-up" aria-hidden="true"></i>
+		   </a>
+		</div>		
+   </footer>
+
+   <div id="preloader"> 
+    	<div id="loader"></div>
+   </div> 
+
+   <!-- Java Script
+   ================================================== --> 
+   <script src="js/jquery-2.1.3.min.js"></script>
+   <script src="js/plugins.js"></script>
+   <script src="js/main.js"></script>
+
+</body>
+
+</html>

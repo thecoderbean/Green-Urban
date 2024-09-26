@@ -1,0 +1,310 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"els",
+				"elseif"
+			],
+			[
+				"else",
+				"ifelse"
+			],
+			[
+				"H",
+				"h4"
+			],
+			[
+				"ech",
+				"echo()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Fitness_Club/fpass/db.php",
+		"/C/xampp/htdocs/Fitness_Club/fpass/index.php",
+		"/C/xampp/htdocs/Fitness_Club/login.php",
+		"/C/xampp/htdocs/Fitness_Club/config/conn.php",
+		"/C/xampp/htdocs/Fitness_Club/Admin/club.php",
+		"/C/xampp/htdocs/Fitness_Club/Admin/approve.php",
+		"/C/xampp/htdocs/Fitness_Club/Admin/admin_nav.php",
+		"/C/xampp/htdocs/Fitness_Club/index.php",
+		"/C/xampp/htdocs/Fitness_Club/Admin/css/lightbox.css",
+		"/C/xampp/htdocs/Fitness_Club/log_action.php",
+		"/C/xampp/htdocs/ecommerce-html-template/index.html",
+		"/C/xampp/htdocs/Fitness_Club/club_reg.php",
+		"/C/xampp/htdocs/Fitness_Club/club_fitness (3).sql",
+		"/C/xampp/htdocs/Krishi_updated/admin/admin_nav.php",
+		"/C/xampp/htdocs/Krishi_updated/admin/index.php",
+		"/C/xampp/htdocs/Krishi_updated/admin/view_user.php",
+		"/C/xampp/htdocs/Krishi_updated/admin/view_crop.php",
+		"/C/xampp/htdocs/Krishi_updated/admin/view_eqp.php",
+		"/C/xampp/htdocs/Krishi_updated/admin/feedback.php",
+		"/C/xampp/htdocs/Krishi_updated/admin/change_pwd.php",
+		"/C/xampp/htdocs/Krishi_updated/admin/edit_crop.php",
+		"/C/xampp/htdocs/Krishi_updated/admin/add_eqp.php",
+		"/C/xampp/htdocs/Krishi_updated/admin/eq_edit.php",
+		"/C/xampp/htdocs/Krishi_updated/admin/add_crop.php",
+		"/C/xampp/htdocs/autophish/index.html",
+		"/C/Users/BESTIN/Desktop/Adamantium-Thief-master/Stealer/packages/Newtonsoft.Json.12.0.3/LICENSE.md",
+		"/C/Users/BESTIN/Desktop/browser-autofill-phishing-master/index.html",
+		"/C/xampp/htdocs/autophish/LICENSE.md",
+		"/C/xampp/htdocs/autophish/readme.md",
+		"/C/Users/BESTIN/Desktop/browser-autofill-phishing-master/readme.md",
+		"/C/Users/BESTIN/Desktop/browser-autofill-phishing-master/LICENSE.md",
+		"/C/xampp/htdocs/Krishi_updated/index.php",
+		"/C/xampp/htdocs/Krishi_updated/merchant_reg.php",
+		"/C/xampp/htdocs/Krishi_updated/log_action.php",
+		"/C/xampp/htdocs/Krishi_updated/farm_reg.php",
+		"/C/xampp/htdocs/Krishi_updated/officer_reg.php",
+		"/C/xampp/htdocs/Krishi_updated/user_reg.php",
+		"/C/xampp/htdocs/Krishi_updated/reg_action.php",
+		"/C/Users/BESTIN/Desktop/browser-autofill-phishing-master/.gitattributes",
+		"/C/xampp/htdocs/Krishi_updated/user_action.php",
+		"/C/xampp/htdocs/Farming/login.php",
+		"/C/xampp/htdocs/Krishi_updated/css/minimal-slider.css",
+		"/C/xampp/htdocs/Krishi_updated/config/conn.php",
+		"/C/Users/BESTIN/AppData/Local/Temp/Temp1_DeepLogo-master.zip/DeepLogo-master/README.md",
+		"/C/xampp/htdocs/Farming/reg_action.php",
+		"/C/xampp/htdocs/Fitness_Club/Member/feedback.php",
+		"/C/Users/BESTIN/Desktop/jayasree.php",
+		"/C/xampp/htdocs/Fitness_Club/Club/feedback.php",
+		"/C/xampp/htdocs/Safe seat/admin/session.php",
+		"/C/xampp/htdocs/Safe seat/css/base.css",
+		"/C/xampp/htdocs/Safe seat/css/bootstrap.min.css",
+		"/C/xampp/htdocs/Safe seat/css/main.css",
+		"/C/xampp/htdocs/Safe seat/home.php",
+		"/C/xampp/htdocs/Fitness_Club/Admin/member.php",
+		"/C/xampp/htdocs/Farming/ret_action.php",
+		"/C/xampp/htdocs/Fish_Market/user_reg.php",
+		"/C/xampp/htdocs/Safe seat/admin/collector.php",
+		"/C/xampp/htdocs/Safe seat/admin/insertbus.php",
+		"/C/xampp/htdocs/Safe seat/admin/add.php",
+		"/C/xampp/htdocs/Safe seat/admin/removebus.php",
+		"/C/xampp/htdocs/Safe seat/js/main.js",
+		"/C/xampp/htdocs/Safe seat/login.php",
+		"/C/xampp/htdocs/Safe seat/admin/Config.php",
+		"/C/xampp/htdocs/Safe seat/css/bootstrap-theme.min.css",
+		"/C/xampp/htdocs/Safe seat/admin/removecd.php",
+		"/C/xampp/htdocs/Safe seat/admin/removeorder.php",
+		"/C/Users/BESTIN/Desktop/abc_pguest.sql",
+		"/C/Users/BESTIN/Desktop/reg_action.php",
+		"/C/Users/BESTIN/Desktop/facerecmachine/metadata.json",
+		"/C/xampp/htdocs/Farming/farmer.php",
+		"/C/xampp/htdocs/Tourism Management System -TMS/tms/index.php",
+		"/C/Users/BESTIN/Desktop/facerecmachine/model.json",
+		"/C/Users/BESTIN/Desktop/facerecmachine/weights.bin",
+		"/C/Users/BESTIN/Desktop/ac_pguest/user_reg.php",
+		"/C/Users/BESTIN/Desktop/ac_pguest/own_reg.php",
+		"/C/xampp/htdocs/Farming/admin/edit_crop.php",
+		"/C/xampp/htdocs/test/newone.php",
+		"/C/Users/BESTIN/AppData/Local/Temp/Temp1_ac_pguest (3).zip/ac_pguest/own_reg.php",
+		"/C/xampp/htdocs/Tourism Management System -TMS/tms/css/animate.css",
+		"/C/xampp/htdocs/Farming/retailer.php",
+		"/C/Users/BESTIN/Desktop/sell_reg.php",
+		"/C/Users/BESTIN/Desktop/Farming/farmer.php",
+		"/C/Users/BESTIN/Desktop/Farming/ret_action.php",
+		"/C/Users/BESTIN/Desktop/Farming/config/conn.php",
+		"/C/Users/BESTIN/Desktop/Farming/reg_action.php",
+		"/C/Users/BESTIN/Desktop/Farming/login.php",
+		"/C/Users/BESTIN/Desktop/Fish_Market/login.php",
+		"/C/Users/BESTIN/Downloads/online_grocery.sql",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/supermarket/ragister.php",
+		"/C/Users/BESTIN/Desktop/temp/MyCode/MyCode/webview/README.md",
+		"/C/Users/BESTIN/Desktop/webview-master/README.md",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/supermarket/order.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/COLLEGE MANAGEMENT SYSTEM (CHMM)/index.php",
+		"/C/project/QR/QR/venv/share/man/man1/qr.1",
+		"/C/project/QR/QR/QrScanning/db.sqlite3",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/supermarket/index.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/supermarket/dbconfig.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/supermarket/view_item_list.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/supermarket/.vscode/launch.json",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/index.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/login.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/welcome.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/update_profile.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/cart/partials/array_db.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/cart/partials/add_new_product.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/supermarket/mycart.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/online-grocery-shopping-master/index.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/ag-grow.sql",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/DELETE.PHP",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/removeproduct.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/removeuser.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/database/ag-grow.sql",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/product.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/removeorder.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/cart/views/new_checkout.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/removeseller.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/index.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/user.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/order.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/removecd.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/cart/views/infogather.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/seller.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/removebus.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/removeorder.html",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/add.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/cart/index.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/cart/uploadproduct.php",
+		"/C/Users/BESTIN/Desktop/DATABASE/htdocs/AG-GROW/admin/inserttutor.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 50.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
